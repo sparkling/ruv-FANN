@@ -87,7 +87,7 @@
     "prepublishOnly-disabled": "npm run deploy:prepare"
   },
   "engines": {
-    "node": ">=18.20.8"
+    "node": ">=20"
   },
   "overrides": {
     "@types/node": "^18.19.115",
