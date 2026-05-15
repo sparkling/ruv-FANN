@@ -1,6 +1,6 @@
 {
   "name": "cuda-wasm",
-  "version": "1.1.1-patch.498",
+  "version": "1.1.1-patch.499",
   "description": "High-performance CUDA to WebAssembly/WebGPU transpiler with Rust safety - Run GPU kernels in browsers and Node.js",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
