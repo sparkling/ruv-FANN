@@ -1,3 +1,5 @@
+> **🍴 Sparkling fork.** This is the [Sparkling](https://github.com/sparkling/ruv-FANN) fork of **[`ruvnet/ruv-FANN`](https://github.com/ruvnet/ruv-FANN)** — the low-level Rust neural crate underpinning the Sparkling stack. It's consumed transitively (you don't install it directly); for the user-facing tooling see **[`@sparkleideas/ruflo`](https://github.com/sparkling/ruflo)**. The fork carries bug fixes + current upstream commits.
+
 # ruv-FANN: The Neural Intelligence Framework 🧠
 
 [![Crates.io](https://img.shields.io/crates/v/ruv-fann.svg)](https://crates.io/crates/ruv-fann)
